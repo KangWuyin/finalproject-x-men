@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475184070826",
+    "project_id": "sharecycle-6b853",
+    "storage_bucket": "sharecycle-6b853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475184070826:android:40e44223df32513376d0d3",
+        "android_client_info": {
+          "package_name": "com.share_cycle.share_cycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Z6cDkNN-pHcZKkiILe02vcv_3AIWDzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
