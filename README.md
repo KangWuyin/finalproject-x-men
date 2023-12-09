@@ -188,7 +188,8 @@ Terms of Service: Ensure that users agree to terms of service that outline North
 ![Diagram/Class Diagram.png](https://github.com/CS5520-Seattle-Fall23/finalproject-x-men/blob/cdceba5c83a5ec013b2eda153e1fb9e9a24bdecf/Diagram/Class%20Diagram.png)
 
 ## Gantt Diagram
-![Gantt.png](Diagram/Gantt.png)
+![Gantt Diagram](https://github.com/CS5520-Seattle-Fall23/finalproject-x-men/assets/133859647/a3320b01-882d-419d-b997-45cb13b479cc)
+
 
 ## Traceability Matrix
 ![image](https://github.com/CS5520-Seattle-Fall23/finalproject-x-men/assets/133859647/266dff0c-a122-497d-836a-3849c44b642d)
